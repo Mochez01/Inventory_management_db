@@ -66,3 +66,5 @@ Regular maintenance tasks:
 - Weekly stock level reports
 - Monthly inventory audits
 - Quarterly database optimization
+## ERD
+![Inventory_management_db](https://github.com/Mochez01/Inventory_management_db/blob/master/ERD.png)
